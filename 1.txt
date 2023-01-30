@@ -1,0 +1,823 @@
+    1  cd ~
+    2  ll
+    3  pwd
+    4  ll ../
+    5  ll ../zhou/
+    6  ll ../singchen/
+    7  ll
+    8  cd ~
+    9  ll
+   10  cd ~
+   11  ll
+   12  top -c
+   13  pwd
+   14  python -V
+   15  python3 -V
+   16  cd ~
+   17  ll
+   18  cd ./
+   19  ll
+   20  cd ..
+   21  ll
+   22  cd /
+   23  ll
+   24  cd home
+   25  ll
+   26  ls
+   27  ll
+   28  cd
+   29  ll
+   30  cd ..
+   31  ls
+   32  ll
+   33  cd xvlin
+   34  cd xulin
+   35  ll
+   36  cd xulin
+   37  cd xulin/
+   38  cd /xulin/
+   39  ll xulin
+   40  ll /xulin/
+   41  ll ../xulin/
+   42  cd ~
+   43  ll
+   44  ll ../xulin/
+   45  ll ../singchen/
+   46  ll ../taneg/
+   47  cd taneg
+   48  ll ../xulin/
+   49  ll ../taneg/
+   50  ll ../taneg/python/
+   51  ll ../taneg/data/
+   52  ll ../taneg/script/
+   53  ll ../taneg/software/
+   54  ll ../taneg/workload/
+   55  cd /
+   56  ll
+   57  cd home
+   58  ll
+   59  cd ~
+   60  ll
+   61  cd ./
+   62  ll
+   63  cd ..
+   64  ll
+   65  cd yangyao
+   66  touch 1
+   67  ls
+   68  ll
+   69  rm 1
+   70  ll
+   71  ll ../taneg/
+   72  ll ../xulin/
+   73  ll ../fuyafang/
+   74  ll
+   75  cd ~
+   76  ll
+   77  $ export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+   78  $ source ~/.bashrc
+   79  export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+   80  source ~/.bashrc
+   81  echo -e “alias rm='rm -i'” >> ~/.bashrc
+   82  source ~/.bashrc
+   83  zk
+   84  cd ~
+   85  ll
+   86  ls
+   87  cd ..
+   88  ll
+   89  cd yangyao
+   90  export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+   91  source ~/.bashrc
+   92  cd ~
+   93  ll
+   94  cd ~
+   95  Yy20220711
+   96  cd /
+   97  cd ~
+   98  ll
+   99  \cd ~
+  100  ll
+  101  python
+  102  R
+  103  r
+  104  radian
+  105  R
+  106  cd yangyao
+  107  cd ..
+  108  cd yangyao
+  109  cd ..
+  110  ll
+  111  cd yangyao
+  112  R
+  113  cd
+  114  cd ..
+  115  ll
+  116  R
+  117  cd ~
+  118  ll
+  119  echo $SHELL
+  120  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  121  bash Miniconda3-latest-Linux-x86_64.sh [-b -p <install_prefix>]
+  122  bash Miniconda3-latest-Linux-x86_64.sh
+  123  source ~/.bashrc
+  124  source ~/miniconda/activate
+  125  source ~/miniconda/bin/activate
+  126  source $~/miniconda/bin/activate
+  127  source ~/miniconda3/bin/activate
+  128  q
+  129  quit()
+  130  cd ..
+  131  ls
+  132  ll
+  133  cd xvlin
+  134  cd taeng
+  135  cd zhou
+  136  ll
+  137  cd home/yangyao
+  138  cd ..
+  139  cd yangyao
+  140  l
+  141  conda list
+  142  ll
+  143  cd miniconda3
+  144  ll
+  145  cd envs
+  146  ll
+  147  ls
+  148  cat 
+  149  cd ..
+  150  cat envs
+  151  cd envs
+  152  ll
+  153  ll -a
+  154  cd ~
+  155  ll
+  156  cd miniconda3
+  157  ll
+  158  cd bin
+  159  ll
+  160  cd ..
+  161  cd envs
+  162  ll
+  163  conda  create -n python37
+  164  ll
+  165  vim ~/.condarc
+  166  ll
+  167  cd ..
+  168  ll
+  169  cd ..
+  170  ll
+  171  conda search R
+  172  conda info --envs
+  173  conda create -n R4.2.1
+  174  cd miniconda3/envs
+  175  ll
+  176  conda create -n R4.1.2
+  177  conda create -n R4.2.1
+  178  conda  create -n python37
+  179  conda create -n R4.1.2
+  180  yes
+  181  conda create -n R4.1.2
+  182  ll
+  183  source activate R4.1.2
+  184  conda install r-base=4.1.2
+  185  conda install r-vegan
+  186  conda list
+  187  q
+  188  quit() cd ..
+  189  a <- c(a,2,3)
+  190  a <- c(1,2,3)
+  191  R
+  192  python
+  193  cd ..
+  194  python
+  195  activate base
+  196  ll
+  197  cd miniconda3/envs
+  198  ll
+  199  activate python37
+  200  conda activate python37
+  201  python
+  202  conda activate base
+  203  R
+  204  python
+  205  conda list
+  206  activate R
+  207  activate R4.1.2
+  208  ll
+  209  conda activate R4.1.2
+  210  conda list
+  211  quit() cd
+  212  quit() cd
+  213  quit() quit()
+  214  conda activate base
+  215  conda activate python37
+  216  conda list
+  217  python
+  218  conda activate base
+  219  conda list
+  220  python
+  221  conda activate R4.1.2
+  222  conda list
+  223  python
+  224  R
+  225  r
+  226  R
+  227  conda activate base
+  228  conda info --base
+  229  conda info --python37
+  230  conda info --python
+  231  conda activate R4.1.2
+  232  conda activate base
+  233  conda install r-base=4.1.2
+  234  source ~/miniconda/activate
+  235  source ~/miniconda/bin/activate
+  236  source $~/miniconda/bin/activate
+  237  source ~/miniconda3/bin/activate
+  238  q
+  239  quit()
+  240  cd ..
+  241  ls
+  242  ll
+  243  cd xvlin
+  244  cd taeng
+  245  cd zhou
+  246  ll
+  247  cd home/yangyao
+  248  cd ..
+  249  cd yangyao
+  250  l
+  251  conda list
+  252  ll
+  253  cd miniconda3
+  254  ll
+  255  cd envs
+  256  ll
+  257  ls
+  258  cat 
+  259  cd ..
+  260  cat envs
+  261  cd envs
+  262  ll
+  263  ll -a
+  264  cd ~
+  265  ll
+  266  cd miniconda3
+  267  ll
+  268  cd bin
+  269  ll
+  270  cd ..
+  271  cd envs
+  272  ll
+  273  conda  create -n python37
+  274  ll
+  275  vim ~/.condarc
+  276  ll
+  277  cd ..
+  278  ll
+  279  cd ..
+  280  ll
+  281  conda search R
+  282  conda info --envs
+  283  conda create -n R4.2.1
+  284  cd miniconda3/envs
+  285  ll
+  286  conda create -n R4.1.2
+  287  conda create -n R4.2.1
+  288  conda  create -n python37
+  289  conda create -n R4.1.2
+  290  yes
+  291  conda create -n R4.1.2
+  292  ll
+  293  source activate R4.1.2
+  294  conda install r-base=4.1.2
+  295  conda install r-vegan
+  296  conda list
+  297  q
+  298  quit() cd ..
+  299  a <- c(a,2,3)
+  300  a <- c(1,2,3)
+  301  R
+  302  python
+  303  cd ..
+  304  python
+  305  activate base
+  306  ll
+  307  cd miniconda3/envs
+  308  ll
+  309  activate python37
+  310  conda activate python37
+  311  python
+  312  conda activate base
+  313  R
+  314  python
+  315  conda list
+  316  activate R
+  317  activate R4.1.2
+  318  ll
+  319  conda activate R4.1.2
+  320  conda list
+  321  quit() cd
+  322  quit() cd
+  323  quit() quit()
+  324  conda activate base
+  325  conda activate python37
+  326  conda list
+  327  python
+  328  conda activate base
+  329  conda list
+  330  python
+  331  conda activate R4.1.2
+  332  conda list
+  333  python
+  334  R
+  335  r
+  336  R
+  337  conda activate base
+  338  conda info --base
+  339  conda info --python37
+  340  conda info --python
+  341  conda activate R4.1.2
+  342  conda activate base
+  343  conda install r-base=4.1.2
+  344  R
+  345  python
+  346  conda list
+  347  conda install r-string
+  348  conda install r-tidyverse
+  349  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  350  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  351  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda
+  352  conda config --set show_channel_urls yes
+  353  conda config --show
+  354  conda install r-tidyverse
+  355  conda install r-ggplot2
+  356  cd ..
+  357  cd miniconda3/envs
+  358  ll
+  359  cd ~
+  360  ls
+  361  ll
+  362  export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+  363  source ~/.bashrc
+  364  cd ~
+  365  ll
+  366  export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+  367  source ~/.bashrc
+  368  cd ~
+  369  ll
+  370  export PS1="\[\033]2;\h:\u \w\007\033[33;1m\]\u \033[35;1m\t\033[0m \[\033[36;1m\]\w\[\033[0m\]\n\[\e[32;1m\]$ \[\e[0m\]" >> ~/.bashrc
+  371  source ~/.bashrc
+  372  conda activate base
+  373  source ~/.bashrc
+  374  source ~miniconda3/bin/activate
+  375  source $~miniconda3/bin/activate
+  376  ll
+  377  source ~/miniconda3/bin/activate
+  378  source ~/.bashrc
+  379  cat ~/.bashrc
+  380  cat ~./bash_profile
+  381  cat ~/.bash_profile
+  382  vim ~/.bash_profile
+  383  source ~/.bashrc
+  384  cat ~/.bash_profile
+  385  vim ~/.bash_profile
+  386  source ~/.bashrc
+  387  cd ~
+  388  ll
+  389  conda activate base
+  390  cat ~/.bashrc
+  391  vim ~/.bashrc
+  392  source ~/.bashrc
+  393  vim ~/.bashrc
+  394  source ~/.bashrc
+  395  vim ~/.bashrc
+  396  source ~/miniconda3/bin/activate
+  397  conda lisy
+  398  conda list
+  399  echo ". /home/<user>/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
+  400  cat ~/.bashrc
+  401  vim ~/.bashrc
+  402  source ~/.bashrc
+  403  vim ~/.bashrc
+  404  cd ~
+  405  ll
+  406  cat ~/.bashrc
+  407  vim ~/.bashrc
+  408  ll
+  409  cd ~
+  410  cd miniconda3
+  411  ll
+  412  cd etc
+  413  ll
+  414  cd profile.d
+  415  ll
+  416  vim ~/.bashrc
+  417  exit() 1
+  418  vim ~/.bashrc
+  419  exit() e()
+  420  cd ~
+  421  ll
+  422  sh miniconda3/etc/profile.d/conda.sh
+  423  cd miniconda3/etc/profile.d
+  424  ll
+  425  cat conda.sh
+  426  sh conda.sh
+  427  cd ~
+  428  source ~/miniconda3/bin/activate
+  429  sudo ln -s /home/<user>/miniconda3/etc/profile.d/conda.sh /etc/profile.d/conda.sh
+  430  sudo ln -s /home/yangyao/miniconda3/etc/profile.d/conda.sh /etc/profile.d/conda.sh
+  431  vim ~/.bash_profile
+  432  conda
+  433  source ~/miniconda3/bin/activate
+  434  conda lsit
+  435  conda list
+  436  conda env list
+  437  conda uninstall libtinfow
+  438  conda activate python37
+  439  conda list
+  440  conda deactivate
+  441  ls /share/home/yangyao/miniconda3/bin/../lib/ | grep libpypy
+  442  ls /share/home/yangyao/miniconda3/bin/../lib/ | grep libtinfow
+  443  ll /share/home/yangyao/miniconda3/bin/../lib/libtinfow.so.6.3
+  444  ll /share/home/yangyao/miniconda3/bin/../lib/libtinfow.so.6
+  445  ll /share/home/yangyao/miniconda3/bin/../lib/libpypy3.9-c.so
+  446  ll /share/home/yangyao/miniconda3/bin/../lib/libtinfow.so
+  447  ll /share/home/yangyao/miniconda3/bin/../lib/libtinfow.a
+  448  vi ~/.bashrc
+  449  sudo rm -rf path/anaconda3
+  450  cd ~
+  451  sudo rm -rf path/anaconda3
+  452  sudo rm -rf miniconda3
+  453  cd ~
+  454  ll
+  455  rm -rf miniconda3
+  456  conda deactivate
+  457  rm -rf miniconda3
+  458  ll
+  459  rm -rf Miniconda3-latest-Linux-x86_64.sh
+  460  ll
+  461  sudo vim /etc/profile
+  462  vim /etc/profile
+  463  vim ~/.bashrc
+  464  vim ~/.bash_profile
+  465  wget -c https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  466  bash Miniconda3-latest-Linux-x86_64.sh
+  467  source ~/miniconda3/bin/activate
+  468  python
+  469  conda deactivate
+  470  source ~/.bashrc
+  471  vim ~/.bashrc
+  472  source ~/.bashrc
+  473  vim ~/.bashrc
+  474  source ~/.bashrc
+  475  echo ". /home/<user>/miniconda3/etc/profile.d/conda.sh" >> ~/.bashrc
+  476  source ~/.bashrc
+  477  vim ~/.bashrc
+  478  source ~/.bashrc
+  479  conda deactivate
+  480  source ~/miniconda3/bin/activate
+  481  vim ~/.bashrc
+  482  exit()
+  483  vim ~/.bashrc
+  484  cd ~
+  485  conda install r-base=4.1.2
+  486  R
+  487  conda install r-string
+  488  conda deactivate
+  489  conda install r-string
+  490  conda activate base
+  491  conda deactivate
+  492  conda  create -n python37  python=3.7
+  493  conda activate python37
+  494  python
+  495  conda deactivate
+  496  cd miniconda3
+  497  ll
+  498  cd envs
+  499  ll
+  500  python37
+  501  python3
+  502  R
+  503  conda activate base
+  504  conda list
+  505  cd ../..
+  506  conda list
+  507  conde deactivate
+  508  conda deactivate
+  509  source ~/miniconda3/bin/activate
+  510  conda deactivate
+  511  vim ~/.bashrc
+  512  cd ~
+  513  ll
+  514  cd ..
+  515  ll
+  516  cd .. | ll
+  517  cd ..
+  518  ll
+  519  cd ~
+  520  ll
+  521  ll -a
+  522  ls -rtlh
+  523  ls -r
+  524  ls -t
+  525  ls -rtlha
+  526  ls -l
+  527  ls -lh
+  528  cd D:\Work\programme\py\yf_lung
+  529  cd /D/Work/programme/py/yf_lung
+  530  cd D/Work/programme/py/yf_lung
+  531  cd ..
+  532  cd..
+  533  cd ..
+  534  ll
+  535  cd ..
+  536  ll
+  537  cd ~
+  538  ll
+  539  mkdir python
+  540  ll
+  541  cd python
+  542  rz -E
+  543  cd ..
+  544  ll
+  545  cd python
+  546  ll
+  547  cat 1.txt
+  548  cat 1
+  549  rm 1
+  550  ll
+  551  rz -E
+  552  ll
+  553  cat 谭_bashrc.txt
+  554  cd ..
+  555  ll
+  556  rz -E
+  557  ll 
+  558  tar -acvf yf_lung.tar
+  559  tar -zcvf yf_lung.tar
+  560  tar -zxvf yf_lung.tar
+  561  tar
+  562  R
+  563  tar -zcvf yf_lung.tar
+  564  tar -zxvf yf_lung.tar.gz
+  565  rm yf_lung.tar
+  566  ll
+  567  rz -E
+  568  ll
+  569  tar -zxvf yf_lung.tar.gz
+  570  ll
+  571  tar -zxvf yf_lung.tar.gz
+  572  tar -zxvf yf_lung.tar.gz > yf_lung
+  573  tar -xvf yf_lung.tar.gz > yf_lung
+  574  ll
+  575  cd yf_lung
+  576  ll
+  577  sz yf_lung
+  578  cd ..
+  579  ll
+  580  cd yf_lung
+  581  cd yf_lung | ll
+  582  python report.py
+  583  pip install pandas
+  584  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+  585  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  586  conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda
+  587  conda config --set show_channel_urls yes
+  588  conda config --show  # 查看新增channels
+  589  conda install pandas
+  590  python report.py
+  591  conda install docxtpl
+  592  python report.py
+  593  conda install pywin32
+  594  python report.py
+  595  conda install pywin32
+  596  python report.py
+  597  conda install win32com
+  598  python report.py
+  599  conda install pypiwin32
+  600  python report.py
+  601  python report.p
+  602  python
+  603  pip install pypiwin32
+  604  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pypiwin32
+  605  python report.p
+  606  python report.py
+  607  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple Cython
+  608  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pypiwin32
+  609  pip install --upgrade setuptools && python -m pip install --upgrade pip
+  610  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pypiwin32
+  611  pip install pypiwin32
+  612  pip3 install pypiwin32
+  613  pip3 install --upgrade setuptools
+  614  python3 -m pip install --upgrade pip
+  615  pip install --upgrade setuptools
+  616  python -m pip install --upgrade pip
+  617  pip3 install pypiwin32
+  618  pip3 install -e pypiwin32
+  619  pip install pypiwin32
+  620  cd ..
+  621  ll
+  622  cd miniconda3/envs
+  623  ll
+  624  conda activate python37
+  625  pip install pypiwin32
+  626  python report.py
+  627  cd ../..
+  628  ll
+  629  cd yf_lung
+  630  ll
+  631  python report.py
+  632  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas
+  633  python report.py
+  634  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple docxtpl
+  635  python report.py
+  636  pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pywin32
+  637  ll
+  638  cd ~
+  639  ll
+  640  conda deactivate
+  641  conda activate python
+  642  conda activate python37
+  643  python
+  644  conda activate R4.2.1
+  645  conda activate R4.1.2
+  646  cd miniconda3/envs
+  647  ll
+  648  cd base
+  649  conda activate base
+  650  conda list
+  651  r
+  652  cd ../..
+  653  r
+  654  ll
+  655  R
+  656  cd /share/genetic/Tumor/618_report
+  657  ll
+  658  cd 618_report_bak
+  659  ll
+  660  cd Config
+  661  ll
+  662  cd packages
+  663  ll
+  664  cd ..
+  665  ll
+  666  cd ..
+  667  ll
+  668  cd database
+  669  ll
+  670  cat README.md
+  671  cd ..
+  672  cd .. | ll
+  673  cd database_bak
+  674  ll
+  675  cd ..
+  676  cd SubFunction
+  677  ll
+  678  cd .. | ll
+  679  cd ..
+  680  ll
+  681  cd SubFunctionClass
+  682  ll
+  683  cat CancerReport.py
+  684  cd ..
+  685  ll
+  686  cd Template
+  687  ll
+  688  cd .. | ll
+  689  cd ..
+  690  ll
+  691  cat zkCancerReport.py
+  692  cd ..
+  693  cd /share/genetic/Tumor/618_report
+  694  ll
+  695  cd ~
+  696  ll
+  697  cd ..
+  698  cd ~
+  699  chmod ugo+rwx 777
+  700  chmod ugo+rwx ./
+  701  cd ..
+  702  ll
+  703  cd share/genetic/Tumor/618_report
+  704  ll
+  705  ll -a
+  706  ll -t
+  707  ll -h
+  708  cd share/genetic/Tumor/618_report
+  709  cd /share/genetic/Tumor/618_report
+  710  ll -h
+  711  ll
+  712  less zkCancerReport.py
+  713  cd Config
+  714  ll
+  715  cat ChemoDrugSensetive.cfg
+  716  cd ChemoDrugSensetive.cfg.bac
+  717  cat ChemoDrugSensetive.cfg.bac
+  718  cat CNV.cfg
+  719  ll
+  720  cat Zhentong.cfg
+  721  cat DBReader.py
+  722  ll
+  723  cd ..
+  724  ll
+  725  cd Template
+  726  l
+  727  lll
+  728  ll
+  729  cat zhengtong.docx
+  730  less zhengtong.docx
+  731  ll
+  732  cd history
+  733  ll
+  734  less base_20220315.docx
+  735  cd ..
+  736  ll
+  737  cd ..
+  738  ll
+  739  cd database_20220525
+  740  ll
+  741  less Database_Breast.xlsx
+  742  less README.md
+  743  ll\
+  744  ll
+  745  cd ..
+  746  ll
+  747  cd database
+  748  ll
+  749  \
+  750  cat README.md 
+  751  cd -
+  752  ll
+  753  cd SubFunction
+  754  ll
+  755  less SummaryMark.py
+  756  cd ~
+  757  ll
+  758  cp Miniconda3-latest-Linux-x86_64.sh
+  759  cp Miniconda3-latest-Linux-x86_64.sh Miniconda3-latest-Linux-x86_64.sh
+  760  cp Miniconda3-latest-Linux-x86_64.sh Miniconda3-latest-Linux-x86_64.sh.bac
+  761  ll
+  762  less Miniconda3-latest-Linux-x86_64.sh.bac
+  763  cp Miniconda3-latest-Linux-x86_64.sh
+  764  cp Miniconda3-latest-Linux-x86_64.sh Miniconda3-latest-Linux-x86_64.sh
+  765  cp Miniconda3-latest-Linux-x86_64.sh Miniconda3-latest-Linux-x86_64.sh.json
+  766  ll
+  767  less Miniconda3-latest-Linux-x86_64.sh.json
+  768  rm Miniconda3-latest-Linux-x86_64.sh.json
+  769  ll
+  770  cd ~
+  771  cd /share/genetic/Tumor/618_report
+  772  ll
+  773  cd database_20220525
+  774  ll
+  775  cd cover
+  776  l
+  777  ll
+  778  cat Bladder_85.jpg
+  779  cd /share/genetic/Tumor/618_report/database_20220525
+  780  ll
+  781  cd ~
+  782  ll
+  783  cd python
+  784  ll
+  785  cat 谭_bashrc.txt
+  786  cd -
+  787  ll
+  788  mv python
+  789  mv python tan_bashrc
+  790  ll
+  791  top -c
+  792  ll
+  793   cd ~
+  794  ll
+  795  history
+  796  history | grep cat
+  797  cat ~/.bashrc
+  798  history | grep bashrc
+  799  history | grep cat||bashrc
+  800  history | grep cat&bashrc
+  801  history | grep cat|bashrc
+  802  history | grep cat | grep bashrc
+  803  history | sort | uniq -c
+  804  history | sort 
+  805  history 
+  806  history$2
+  807  history | cut -f 2
+  808  history | sort 
+  809  history | sort -w
+  810  history | sort -l
+  811  history | sort -a
+  812  history | sort -s
+  813  sort --help
+  814  history | sort -V
+  815  sort --help
+  816  history | sort -h
+  817  history | sort -h | uniq -c
+  818  history | cut -f 2
+  819  history | cut -f 1
+  820  history | sort -h
+  821  history | sort -h | cut -f 2
+  822  touch 1.txt
+  823  history > 1.txt
