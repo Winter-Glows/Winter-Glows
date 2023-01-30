@@ -1,0 +1,5 @@
+Dirs:
+  pictures: ./pictures
+  templates: ./templates
+  output: ./output
+  json: ./json
