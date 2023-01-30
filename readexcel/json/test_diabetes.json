@@ -1,0 +1,33 @@
+{
+  "zkjy_project": "糖尿病",
+  "genetype": {
+    "ABCC8": "TT",
+    "CYP2C9": "CC",
+    "GLP1R_rs10305420": "CT",
+    "GLP1R_rs6923761": "GA",
+    "PPARG": "CG",
+    "SLC22A2": "GT",
+    "SLCO1B1": "TC"
+  },
+  "is_pedigree": false,
+  "zk_id": "ZK10140858",
+  "zk_name": "刘金俊",
+  "gender": "男",
+  "age": "53",
+  "birthday": null,
+  "product": [
+    "全外显子检测"
+  ],
+  "product_number": [
+    "ZKP-IH-2008"
+  ],
+  "hospital": "华山医院",
+  "doc": null,
+  "hos_num": "",
+  "sample_type": "全血",
+  "sampling_time": null,
+  "receive_time": "2022-10-28T16:31:15+08:00",
+  "nation": "",
+  "send_department": null,
+  "clinical_diagnosis": "未提供"
+}
