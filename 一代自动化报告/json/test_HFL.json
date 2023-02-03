@@ -1,0 +1,29 @@
+{
+    "zkjy_project": "华法林",
+    "genetype": {
+      "CYP2C9-2": "CC",
+      "CYP2C9-3": "AA",
+      "VKORC1": "GA"
+    },
+    "is_pedigree": false,
+    "zk_id": "ZK10140858",
+    "zk_name": "陈蔼莉",
+    "gender": "女",
+    "age": "45",
+    "birthday": null,
+    "product": [
+      "肺癌80基因检测（组织版）"
+    ],
+    "product_number": [
+      "ZKP-CC-1037"
+    ],
+    "hospital": null,
+    "doc": null,
+    "hos_num": "",
+    "sample_type": "石蜡切片",
+    "sampling_time": null,
+    "receive_time": "2022-12-19T16:01:09+08:00",
+    "nation": "",
+    "send_department": null,
+    "clinical_diagnosis": "未提供"
+  }
