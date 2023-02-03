@@ -12,7 +12,7 @@ Point = namedtuple('Point', 'X Y')
 BLACK_CHESSMAN = Chessman('黑子', 1, (45, 45, 45))
 WHITE_CHESSMAN = Chessman('白子', 2, (219, 219, 219))
 
-offset = [(1, 0), (0, 1), (1, 1), (1, -1)]
+offset = [(1, 0), (0, 1), (1, 1), (1, -1)]   
 
 
 class Checkerboard:
